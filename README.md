@@ -15,7 +15,7 @@ I enjoy exploring new technologies, experimenting with different ideas, and lear
 
 ---
 
-## 🚀 Technologies & Platforms
+## 🚀 Tech Stacks
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
