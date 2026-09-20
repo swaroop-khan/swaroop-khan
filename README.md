@@ -2,7 +2,7 @@
 
 I'm a student, developer, and AI & ML enthusiast with a strong interest in programming, problem-solving, and understanding how technology works beneath the surface.
 
-I enjoy exploring new technologies, experimenting with different ideas, and learning through hands-on experience. While I enjoy software development and computer science fundamentals, I'm particularly fascinated by the deeper aspects of Artificial Intelligence and Machine Learning—from understanding core concepts and algorithms to exploring how intelligent systems are designed, trained, and applied to solve real-world problems. I'm always looking for opportunities to expand my knowledge, challenge myself, and grow as a developer.
+I enjoy exploring new technologies, experimenting with different ideas, and learning through hands-on experience. While I enjoy software development and computer science fundamentals, I'm particularly fascinated by the deeper aspects of Artificial Intelligence and Machine Learning, from understanding core concepts and algorithms to exploring how intelligent systems are designed, trained, and applied to solve real-world problems. I'm always looking for opportunities to expand my knowledge, challenge myself, and grow as a developer.
 
 ---
 
