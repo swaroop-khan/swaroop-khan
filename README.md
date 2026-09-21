@@ -11,7 +11,6 @@
 - 🔭 **Focus:** Exploring Artificial Intelligence & Machine Learning, algorithm design, and core Computer Science fundamentals.
 - ⚡ **Current Work:** Building intelligent systems and experimenting with hands-on software development.
 - 🎯 **Goals:** Expanding deep tech knowledge, tackling complex real-world problems, and contributing to open-source.
-- 🍿 **Interests:** Tech workshops, movies, and gaming.
 
 <br/>
 
