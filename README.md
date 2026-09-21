@@ -1,41 +1,63 @@
-# 💫 About Me
+<!-- HEADER BANNER & GREETING -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%8B,+I'm+Swaroop+Khan!;AI+%26+Machine+Learning+Enthusiast;Problem+Solver+%26+Developer" alt="Typing SVG" />
+</p>
 
-I'm a student, developer, and AI & ML enthusiast with a strong interest in programming, problem-solving, and understanding how technology works beneath the surface.
+<br/>
 
-I enjoy exploring new technologies, experimenting with different ideas, and learning through hands-on experience. While I enjoy software development and computer science fundamentals, I'm particularly fascinated by the deeper aspects of Artificial Intelligence and Machine Learning, from understanding core concepts and algorithms to exploring how intelligent systems are designed, trained, and applied to solve real-world problems. I'm always looking for opportunities to expand my knowledge, challenge myself, and grow as a developer.
+<!-- ABOUT ME SECTION -->
+### 📌 About Me
 
----
+- 🔭 **Focus:** Exploring Artificial Intelligence & Machine Learning, algorithm design, and core Computer Science fundamentals.
+- ⚡ **Current Work:** Building intelligent systems and experimenting with hands-on software development.
+- 🎯 **Goals:** Expanding deep tech knowledge, tackling complex real-world problems, and contributing to open-source.
+- 🍿 **Interests:** Tech workshops, movies, and gaming.
 
-## 🌐 Socials
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swaroop-khan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swaroop-khan/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Swaroop_Khan_10)
-[![Letterboxd](https://img.shields.io/badge/Letterboxd-202830?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/sk7bidi/)
----
+<!-- TECH STACK SECTION -->
+### 🛠️ Tech Stack & Tools
 
-## 🚀 Tech Stacks
-
+#### **Programming Languages & Runtimes**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
+#### **AI & Data Science**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+#### **Web & Hardware Tools**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Riot Games](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riotgames&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
+
+<br/>
+
+
+
+<!-- TOP LANGUAGES OVERVIEW -->
+### 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=swaroop-khan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
+</p>
+
+<br/>
+
+<!-- SOCIALS & CONNECT -->
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/swaroop-khan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://swaroop-khan.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:swaroopkhanp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
