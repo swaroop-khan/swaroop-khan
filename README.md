@@ -12,7 +12,7 @@
   "location": "Bangalore, India",
   "role": "AI & ML Enthusiast | Developer",
   "focus": ["Artificial Intelligence", "Machine Learning", "System Design"],
-  "currently_building": "Intelligent Software & Systems",
+  "currently_building": "Intelligent Software & Systems"
 }
 ```
 
