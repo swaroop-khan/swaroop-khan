@@ -63,7 +63,7 @@
 <h3 align="center">📊 Most Used Languages</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaroop-khan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="Most used languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=swaroop-khan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="Most used languages" />
 </p>
 
 <br/>
